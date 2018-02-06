@@ -1,5 +1,7 @@
 # Detector de copias
 Aplicación que permite comparar ficheros en código ASCII para buscar similitudes entre ellos, diseñado para localizar copias en ejercicios prácticos de programación.
+
+El programa sólo indica el grado de similitud entre ficheros. Para compararlos visualmente, se recomienda el uso de Meld (http://meldmerge.org/)
 ## Ejecución
 `> python [-s|n|p|lA|cA,B] {lista de ficheros}`
 
